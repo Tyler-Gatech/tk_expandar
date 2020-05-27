@@ -1,4 +1,4 @@
-#' @title Explore Your Data (ExPanD)
+#' @title Explore Your Data (ExPanD) 
 #'
 #' @description A shiny based web app that uses ExPanDaR functionality for
 #' interactive data exploration. Designed for long-form panel data but works on
